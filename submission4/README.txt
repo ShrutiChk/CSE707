@@ -5,7 +5,7 @@ Unlisted YouTube video:
 http://youtube....
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FIC3S2023
 
 Paper title:
 Federated Learning for Potato Leaf Disease Detection using CNN
