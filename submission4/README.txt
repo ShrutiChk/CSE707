@@ -2,7 +2,7 @@ Overleaf link with edit access
 https://www.overleaf.com/project/63fda04f922e8950d4eff65d
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/xWHkb5-pImM
 
 Conference submitted paper / paper submission / login Link:
 https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FIC3S2023
@@ -11,7 +11,7 @@ Paper title:
 Federated Learning for Potato Leaf Disease Detection using CNN
 
 Paper presentation (anyone can view without login):
-Done from the paper
+https://github.com/ShrutiChk/CSE707/blob/main/submission4/Federated%20Learning%20for%20Potato%20Leaf%20Disease%20Detection%20using%20CNN.pdf
 
 Paper submission date (to workshop/conference):
 28 February, 2023
