@@ -2,7 +2,7 @@ Overleaf link with edit access
 https://www.overleaf.com/project/63fda04f922e8950d4eff65d
 
 Unlisted YouTube video:
-https://youtu.be/wNmmDcLSXc8
+https://youtu.be/D2YUWEL_XEQ
 
 Conference submitted paper / paper submission / login Link:
 https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FIC3S2023
